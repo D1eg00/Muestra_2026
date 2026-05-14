@@ -6,7 +6,7 @@
 //  W              : enviar atrás
 //  I              : imprimir coordenadas actuales
 // =============================================
-
+// link repositorio: https://canva.link/scefytqm38esskc
 let curvas = [];
 let seleccionada = null;
 let offsetX, offsetY;
