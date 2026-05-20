@@ -1,3 +1,8 @@
+//Comisión: Matias / Lisandro
+// GRUPO:12s
+//Estudiantes: Miranda Diego Montenegro Tatiana Evelyn, Sokol Tobias Ezequiel, Ara 
+// Lista que contiene todos los objetos "Curva"
+// LINK YOUTUBE: https://youtu.be/NvGRCHDBzgo
 let curvas = [];
 let teclaT = false;
 let tPresionadaAntes = false;
