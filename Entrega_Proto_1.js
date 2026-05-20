@@ -1,4 +1,4 @@
-/let curvas = [];
+let curvas = [];
 let teclaT = false;
 let tPresionadaAntes = false;
 let mouseXant, mouseYant;
